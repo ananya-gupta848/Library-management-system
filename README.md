@@ -14,3 +14,4 @@ Project Scope-It manages book cataloging, user registration, issue/return proces
 OUTPUT IMAGES-
 
  ![image alt](https://github.com/ananya-gupta848/Library-management-system/blob/main/Screenshot%202026-06-12%20110134.png?raw=true)
+ ![image alt](https://github.com/ananya-gupta848/Library-management-system/blob/main/Screenshot%202026-06-12%20112915.png?raw=true)
